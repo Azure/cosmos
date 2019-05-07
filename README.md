@@ -10,8 +10,10 @@ To get started with Azure Cosmos DB, checkout [docs.microsoft.com](https://docs.
 ## Getting support 🛠
 
 For help:
- - See our [docs](https://docs.microsoft.com/en-us/azure/cosmos-db/) (especially the troubleshooting section)
+ - See our [docs](https://docs.microsoft.com/en-us/azure/cosmos-db/) (especially the [troubleshooting](https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-dot-net-sdk) section)
  - [Open a support ticket](https://azure.microsoft.com/en-us/support/create-ticket/)
+ - Follow us on [@AzureCosmosDB](https://twitter.com/AzureCosmosDB)
+ - Checkout our tag on StackoverFlow [\[azure-cosmosdb\]](https://stackoverflow.com/questions/tagged/azure-cosmosdb)
  - Email askcosmosdb@microsoft.com
  - Open an issue in the appropriate repo below
 
